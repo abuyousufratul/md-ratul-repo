@@ -1,0 +1,17 @@
+body {
+
+
+    font-family: "Platypi", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+#ba {
+    color: bisque;
+}
+
+
+#pc {
+    margin-right: 30%;
+}
