@@ -3,15 +3,79 @@ body {
 
     font-family: "Platypi", serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: weight;
     font-style: normal;
 }
 
 #ba {
-    color: bisque;
+    color: #FECE79;
 }
 
 
-#pc {
-    margin-right: 30%;
+.ra {
+    width: 150px;
+}
+
+
+
+#i {
+    display: flex;
+    margin: 300px;
+    margin-right: 100px;
+
+
+}
+
+.g {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    background-image: -moz-linear-gradient(rgb(26, 153, 238), rgb(51, 27, 160));
+    border-radius: 5px;
+    padding: 10px 30px;
+    color: white;
+    font-weight: 700;
+
+}
+
+.u {
+    color: #FECE79;
+}
+
+.m {
+    text-align: center;
+
+}
+
+.abi {
+    width: 100px;
+}
+
+.ul {
+    width: 200px;
+    margin-right: 50px;
+
+}
+
+.rm {
+    display: flex;
+    margin: 50px;
+
+}
+
+.t {
+    margin-right: 0%;
+
+
+
+}
+
+.k {
+    margin-left: 20%;
+}
+
+.x {
+    margin-left: 15%;
 }
