@@ -67,15 +67,88 @@ a {
 
 .t {
     margin-right: 0%;
-
+    background-image: -moz-linear-gradient(green, green);
+    border-radius: 10px;
 
 
 }
 
 .k {
     margin-left: 20%;
+    background-image: -moz-linear-gradient(#8c4131, #8c4131);
+    border-radius: 10px;
 }
 
 .x {
     margin-left: 15%;
+    background-image: -moz-linear-gradient(#40E0D0, #40E0D0);
+    border-radius: 10px;
+}
+
+.vip {
+    width: 350px;
+    margin-left: 5%;
+
+}
+
+.am {
+    display: flex;
+}
+
+.mm {
+    margin-left: 15%;
+}
+
+.ani {
+    width: 300px;
+    margin-left: 9%;
+}
+
+.res {
+    display: flex;
+}
+
+.ami {
+    margin-left: 2%;
+}
+
+.http {
+    text-align: center;
+}
+
+.tt {
+    color: #FECE79;
+}
+
+.text {
+    width: 400px;
+    margin-left: 25%;
+}
+
+.red {
+    display: flex;
+}
+
+.sign {
+    margin-left: 10%;
+    margin-top: 20%;
+}
+
+.class {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 20%;
+    color: black;
+}
+
+.css {
+
+
+
+    text-decoration-line: line-through;
+
+}
+
+.gel {
+    color: #8c4131;
 }
